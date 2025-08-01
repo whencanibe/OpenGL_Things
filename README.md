@@ -1,6 +1,9 @@
 # OpenGL Things
 OpenGL Projects using GLEW and freeGLUT
 ## Wave
+
+👉 [Watch Demo Video(시연 영상 보러 가기)](https://www.youtube.com/shorts/Ndy9rzw81No)
+
 <img src="./images/wave.png" width="400"/>
 
 Implemented a damped sine wave animation centered on the plane using a vertex shader.
@@ -20,6 +23,8 @@ q : Exit the program
 ## Robot Arm
 <img src="./images/robot_arm.png" width="400"/>
 
+👉 [Watch Demo Video(시연 영상 보러 가기)](https://www.youtube.com/shorts/IHWj_ZYAvuY)
+
 Built a visually enhanced robot arm and implemented Inverse Kinematics with Cyclic Coordinate Descent (CCD) to follow a moving target.
 
 KEY 
@@ -33,6 +38,9 @@ KEY
 Spacebar : start/stop Playing
 
 ## Maze
+
+👉 [Watch Demo Video(시연 영상 보러 가기)](https://www.youtube.com/watch?v=lbCn7aNpblk)
+
 <img src="./images/maze.png" width="400"/>
 
 Implemented a maze navigation system using the A* algorithm, where the camera rotates and handles collisions to follow the path, and the right-side minimap is rendered using orthogonal projection.
