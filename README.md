@@ -20,7 +20,7 @@ q : Exit the program
 ## Robot Arm
 <img src="./images/robot_arm.png" width="400"/>
 
-Built a visually enhanced robot arm using CTM(Current Transformation Matrix) and implemented Inverse Kinematics with Cyclic Coordinate Descent (CCD) to follow a moving target.
+Built a visually enhanced robot arm and implemented Inverse Kinematics with Cyclic Coordinate Descent (CCD) to follow a moving target.
 
 KEY 
 
